@@ -12,26 +12,26 @@ function Navbar({ className }: { className?: string }) {
         <Menu setActive={setActive}>
           <MenuItem setActive={setActive} active={active} item="Services">
             <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/web-dev">Web Development</HoveredLink>
-              <HoveredLink href="/interface-design">Interface Design</HoveredLink>
-              <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
-              <HoveredLink href="/branding">Branding</HoveredLink>
+              <HoveredLink href="#">Web Development</HoveredLink>
+              <HoveredLink href="#">Interface Design</HoveredLink>
+              <HoveredLink href="#">Search Engine Optimization</HoveredLink>
+              <HoveredLink href="#">Branding</HoveredLink>
             </div>
           </MenuItem>
           <MenuItem setActive={setActive} active={active} item="Products">
           <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/web-dev">Web Development</HoveredLink>
-              <HoveredLink href="/interface-design">Interface Design</HoveredLink>
-              <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
-              <HoveredLink href="/branding">Branding</HoveredLink>
+              <HoveredLink href="#">Web Development</HoveredLink>
+              <HoveredLink href="#">Interface Design</HoveredLink>
+              <HoveredLink href="#">Search Engine Optimization</HoveredLink>
+              <HoveredLink href="#">Branding</HoveredLink>
             </div>
           </MenuItem>
           <MenuItem setActive={setActive} active={active} item="Pricing">
             <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/hobby">Hobby</HoveredLink>
-              <HoveredLink href="/individual">Individual</HoveredLink>
-              <HoveredLink href="/team">Team</HoveredLink>
-              <HoveredLink href="/enterprise">Enterprise</HoveredLink>
+              <HoveredLink href="#">Hobby</HoveredLink>
+              <HoveredLink href="#">Individual</HoveredLink>
+              <HoveredLink href="#">Team</HoveredLink>
+              <HoveredLink href="#">Enterprise</HoveredLink>
             </div>
           </MenuItem>
         </Menu>
