@@ -2,6 +2,8 @@
 import { cn } from "@/lib/utils";
 import { motion, MotionValue } from "framer-motion";
 import React from "react";
+import { useRouter } from 'next/router';
+
 
 const transition = {
   duration: 0,

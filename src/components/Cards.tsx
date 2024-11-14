@@ -9,39 +9,39 @@ export function CardHoverEffectDemo() {
 }
 export const projects = [
   {
-    title: "Stripe",
+    title: "Tech Trends and Innovations",
     description:
       "A technology company that builds economic infrastructure for the internet.",
     link: "https://stripe.com",
   },
   {
-    title: "Netflix",
+    title: "Travel and Adventure",
     description:
       "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
     link: "https://netflix.com",
   },
   {
-    title: "Google",
+    title: "Health and Wellness",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
+      "A supportive chatroom focused on mental health, fitness, nutrition, and overall well-being. Members can exchange advice, fitness routines, and wellness practices.",
     link: "https://google.com",
   },
   {
-    title: "Meta",
+    title: "Book Club",
     description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
+      "A space for book lovers to discuss current reads, favorite genres, author recommendations, and more. Members can also organize reading challenges and book reviews.",
     link: "https://meta.com",
   },
   {
-    title: "Amazon",
+    title: "Career Development",
     description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+      "For professionals and students to discuss job search tips, resume advice, skill-building, networking, and career growth strategies.",
     link: "https://amazon.com",
   },
   {
-    title: "Microsoft",
+    title: "Hobbies and DIY Projects",
     description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+      "A creative chatroom where members can share their latest projects, from art and crafts to home improvement and gardening. It’s a space for inspiration and feedback.",
     link: "https://microsoft.com",
   },
 ];
