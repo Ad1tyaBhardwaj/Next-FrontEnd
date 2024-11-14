@@ -105,11 +105,10 @@ export const Header = () => {
   return (
     <div className="max-w-7xl relative mx-auto py-20 md:py-40 px-4 w-full  left-0 top-0">
       <h1 className="text-2xl md:text-7xl font-bold dark:text-white">
-        The Ultimate <br /> Chatroom
+        The VibeSpace <br /> Chatrooms
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200">
-        This Chatroom page is built for Deepesh Kumar Singh aka Mutthi to apply to an unknown company.
-        Mutthi Madarchod hai
+      VibeSpace is your open space to share thoughts anonymously and connect with communities that match your interests.
       </p>
     </div>
   );
