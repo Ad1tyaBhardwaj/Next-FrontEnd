@@ -28,14 +28,14 @@ export function FloatingDockDemo() {
       href: "#",
     },
     {
-      title: "Components",
+      title: "Chatroom",
       icon: (
         <IconNewSection className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
       href: "#",
     },
     {
-      title: "Aceternity UI",
+      title: "anonymity",
       icon: (
         <Image
           src="https://assets.aceternity.com/logo-dark.png"
@@ -47,7 +47,7 @@ export function FloatingDockDemo() {
       href: "#",
     },
     {
-      title: "Changelog",
+      title: "Profile",
       icon: (
         <IconExchange className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
